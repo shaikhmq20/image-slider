@@ -1,4 +1,4 @@
-import Stack from "./stack.js";
+import Stack from "./Stack.js";
 import LinkedList from "./LinkedList.js";
 import { images } from "./config.js";
 
